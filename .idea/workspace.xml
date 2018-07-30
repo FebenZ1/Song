@@ -29,12 +29,11 @@
       <file leaf-file-name="SongList.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Songs/SongList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+            <state relative-caret-position="153">
+              <caret line="9" column="41" lean-forward="false" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
               <folding>
                 <element signature="e#118#119#0" expanded="true" />
                 <element signature="e#163#164#0" expanded="true" />
-                <element signature="e#206#207#0" expanded="true" />
                 <element signature="e#236#237#0" expanded="true" />
                 <element signature="e#291#292#0" expanded="true" />
                 <element signature="e#329#330#0" expanded="true" />
@@ -115,6 +114,7 @@
         <option value="$PROJECT_DIR$/src/Song.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/Songs/ISong.java" />
+        <option value="$PROJECT_DIR$/src/Songs/SongList.java" />
       </list>
     </option>
   </component>
@@ -168,7 +168,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="preferences.updates" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -307,12 +307,12 @@
       <workItem from="1532964680612" duration="6441000" />
       <workItem from="1532974651900" duration="6202000" />
       <workItem from="1532984624001" duration="536000" />
-      <workItem from="1532985874567" duration="942000" />
+      <workItem from="1532985874567" duration="1486000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14121000" />
+    <option name="totallyTimeSpent" value="14665000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
@@ -415,7 +415,6 @@
           <folding>
             <element signature="e#118#119#0" expanded="true" />
             <element signature="e#163#164#0" expanded="true" />
-            <element signature="e#206#207#0" expanded="true" />
             <element signature="e#236#237#0" expanded="true" />
             <element signature="e#291#292#0" expanded="true" />
             <element signature="e#329#330#0" expanded="true" />
@@ -483,7 +482,6 @@
           <folding>
             <element signature="e#118#119#0" expanded="true" />
             <element signature="e#163#164#0" expanded="true" />
-            <element signature="e#206#207#0" expanded="true" />
             <element signature="e#236#237#0" expanded="true" />
             <element signature="e#291#292#0" expanded="true" />
             <element signature="e#329#330#0" expanded="true" />
@@ -667,12 +665,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Songs/SongList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        <state relative-caret-position="153">
+          <caret line="9" column="41" lean-forward="false" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
           <folding>
             <element signature="e#118#119#0" expanded="true" />
             <element signature="e#163#164#0" expanded="true" />
-            <element signature="e#206#207#0" expanded="true" />
             <element signature="e#236#237#0" expanded="true" />
             <element signature="e#291#292#0" expanded="true" />
             <element signature="e#329#330#0" expanded="true" />
